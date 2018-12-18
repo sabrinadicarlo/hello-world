@@ -1,2 +1,2 @@
-# hello_world
+# hello-world
 an authentic hello world proj
